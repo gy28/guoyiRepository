@@ -1,32 +1,39 @@
 
-Æ»¹û¹«Ë¾40ÄêÀï³Ì±®²úÆ·£º
+ä½œä¸š2ï¼šWWDC2016 è§‚åŽæ„Ÿ
 
-1¡¢Apple II¸öÈËµçÄÔ--·¢²¼Ê±¼ä£º1977Äê
 
-2¡¢Apple IIc¸öÈËµçÄÔ--·¢²¼Ê±¼ä£º1977Äê
 
-3¡¢Macintosh Classic¾­µä°æ--·¢²¼Ê±¼ä£º1990Äê
 
-4¡¢iMac G3¸öÈËµçÄÔ--·¢²¼Ê±¼ä£º1998Äê
 
-5¡¢iBook±Ê¼Ç±¾µçÄÔ--·¢²¼Ê±¼ä£º1999Äê
 
-6¡¢PowerBook G4±Ê¼Ç±¾µçÄÔ--·¢²¼Ê±¼ä£º2001Äê
 
-7¡¢iPod Classic¾­µä°æ--·¢²¼Ê±¼ä£º2001Äê
+ä½œä¸š1ï¼šè‹¹æžœ40å¹´æ¥é‡Œç¨‹ç¢‘å¼äº§å“
 
-8¡¢iMac G5¸öÈËµçÄÔ--·¢²¼Ê±¼ä£º2004Äê
+1ã€Apple IIä¸ªäººç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š1977å¹´
 
-9¡¢iPod NanoÒôÀÖ²¥·ÅÆ÷--·¢²¼Ê±¼ä£º2005Äê
+2ã€Apple IIcä¸ªäººç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š1977å¹´
+3ã€Macintosh Classicç»å…¸ç‰ˆ--å‘å¸ƒæ—¶é—´ï¼š1990å¹´
 
-10¡¢MacBook Pro±Ê¼Ç±¾µçÄÔ--·¢²¼Ê±¼ä£º2006Äê
+4ã€iMac G3ä¸ªäººç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š1998å¹´
 
-11¡¢iPod TouchÒôÀÖ²¥·ÅÆ÷--·¢²¼Ê±¼ä£º2007Äê
+5ã€iBookç¬”è®°æœ¬ç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š1999å¹´
 
-12¡¢iPhoneÖÇÄÜÊÖ»ú--·¢²¼Ê±¼ä£º2007Äê
+6ã€PowerBook G4ç¬”è®°æœ¬ç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š2001å¹´
 
-13¡¢MacBook Air³¬±¡±Ê¼Ç±¾µçÄÔ--·¢²¼Ê±¼ä£º2008Äê
+7ã€iPod Classicç»å…¸ç‰ˆ--å‘å¸ƒæ—¶é—´ï¼š2001å¹´
 
-14¡¢iPadÆ½°åµçÄÔ--·¢²¼Ê±¼ä£º2010Äê
+8ã€iMac G5ä¸ªäººç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š2004å¹´
+
+9ã€iPod NanoéŸ³ä¹æ’­æ”¾å™¨--å‘å¸ƒæ—¶é—´ï¼š2005å¹´
+
+10ã€MacBook Proç¬”è®°æœ¬ç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š2006å¹´
+
+11ã€iPod TouchéŸ³ä¹æ’­æ”¾å™¨--å‘å¸ƒæ—¶é—´ï¼š2007å¹´
+
+12ã€iPhoneæ™ºèƒ½æ‰‹æœº--å‘å¸ƒæ—¶é—´ï¼š2007å¹´
+
+13ã€MacBook Airè¶…è–„ç¬”è®°æœ¬ç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š2008å¹´
+
+14ã€iPadå¹³æ¿ç”µè„‘--å‘å¸ƒæ—¶é—´ï¼š2010å¹´
 
 
